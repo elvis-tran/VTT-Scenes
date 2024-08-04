@@ -1,7 +1,7 @@
 {
-    "name": "czepeku-10-animated-city-marketplace",
-    "title": "Cze and Peku Animated - City Marketplace",
-    "description": "<p>This module provides the Animated City Marketplace map pack by Cze and Peku. All maps are pre-configured with walls and lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "name": "czepeku-10-city-marketplace",
+    "title": "Cze and Peku - City Marketplace",
+    "description": "<p>This module provides the City Marketplace map pack by Cze and Peku. All maps are pre-configured with walls and lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
     "version": "1.0.2",
 	"compatibility": {
     "minimum": "9",
@@ -10,7 +10,7 @@
     "packs": [
         {
             "name": "maps",
-            "label": "Cze and Peku Animated - City Marketplace",
+            "label": "Cze and Peku - City Marketplace",
             "path": "/packs/maps.db",
             "type": "Scene"
         }
@@ -18,10 +18,10 @@
 "media": [
   {
     "type": "cover",
-    "url": ""
+    "url": "https://www.dropbox.com/s/jgnylbj1e54neg1/09.jpg?dl=1"
   }
      ],
     "url": "https://www.patreon.com/czepeku/",
-    "manifest": "https://dl.dropbox.com/s/sjc926spzwz58od/module.json",
-    "download": "https://www.dropbox.com/s/xvi63l5xynbugai/Czepeku-CityMarketplace-Animated.zip?dl=1"
+    "manifest": "https://www.dropbox.com/s/y5jbuh2wjr5scyw/module.json?dl=1",
+    "download": "https://www.dropbox.com/s/5jixisii82c7167/City%20Marketplace.zip?dl=1"
 }
