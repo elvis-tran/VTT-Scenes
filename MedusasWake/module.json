@@ -1,0 +1,27 @@
+{
+    "name": "czepeku-scenes-010-Medusas-Wake",
+    "title": "Czepeku Scenes - Medusa's Wake",
+    "description": "<p>This module provides the Medusa's Wake scenes pack by Czepeku Scenes. All scenes are pre-configured with lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.1",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "10.261"},
+    "author": "Czepeku Scenes",
+    "packs": [
+        {
+            "name": "scenes",
+            "label": "Czepeku Scenes - Medusa's Wake",
+            "path": "/Packs/scenes.db",
+            "type": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": ""
+  }
+     ],
+    "url": "https://www.patreon.com/czepekuscenes/",
+    "manifest": "https://www.dropbox.com/scl/fi/ay54ucxnsluyaa50s8j3g/module.json?rlkey=gi64636a82mpwc91ev9r7y9v0&dl=1",
+    "download": "https://www.dropbox.com/scl/fi/jx15o7deairpjskmumbrg/CzepekuScenes-MedusasWake.zip?rlkey=bu53mspqiok7knnf4zapynv60&dl=1"
+}

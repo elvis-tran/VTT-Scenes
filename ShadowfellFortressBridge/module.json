@@ -1,0 +1,27 @@
+{
+    "name": "czepeku-scenes-009-Shadowfell-Fortress-Bridge",
+    "title": "Czepeku Scenes - Shadowfell Fortress Bridge",
+    "description": "<p>This module provides the Shadowfell Fortress Bridge scenes pack by Czepeku Scenes. All scenes are pre-configured with lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.1",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "10.261"},
+    "author": "Czepeku Scenes",
+    "packs": [
+        {
+            "name": "scenes",
+            "label": "Czepeku Scenes - Shadowfell Fortress Bridge",
+            "path": "/Packs/scenes.db",
+            "type": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": ""
+  }
+     ],
+    "url": "https://www.patreon.com/czepekuscenes/",
+    "manifest": "https://www.dropbox.com/scl/fi/xu5dwmrin4ew8jxpdc88l/module.json?rlkey=r03mjpza2zmm8wtovryx19haz&dl=1",
+    "download": "https://www.dropbox.com/scl/fi/djkhi0kjsl6d7xduz8gob/CzepekuScenes-ShadowfellFortressBridge.zip?rlkey=3ylhz85gbs0k0ekqrcxo7eoql&dl=1"
+}

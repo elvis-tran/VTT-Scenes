@@ -1,0 +1,27 @@
+{
+    "name": "czepeku-scenes-011-City-Marketplace",
+    "title": "Czepeku Scenes - City Marketplace",
+    "description": "<p>This module provides the City Marketplace scenes pack by Czepeku Scenes. All scenes are pre-configured with lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.0",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "10.261"},
+    "author": "Czepeku Scenes",
+    "packs": [
+        {
+            "name": "scenes",
+            "label": "Czepeku Scenes - City Marketplace",
+            "path": "/Packs/scenes.db",
+            "type": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": ""
+  }
+     ],
+    "url": "https://www.patreon.com/czepekuscenes/",
+    "manifest": "https://www.dropbox.com/scl/fi/7nyjl3uha4y0edsodvtsw/module.json?rlkey=up9luvqdoz2j68nqvf4a3p8mg&dl=1",
+    "download": "https://www.dropbox.com/scl/fi/0huvjr9rr0uybkyyvtea7/CzepekuScenes-CityMarketplace.zip?rlkey=eyixuq7cs9txybjpnabylg4pu&dl=1"
+}

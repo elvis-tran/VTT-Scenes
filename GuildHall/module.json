@@ -1,0 +1,27 @@
+{
+    "name": "czepeku-scenes-012-Adventurers-Guildhall",
+    "title": "Czepeku Scenes - Adventurers Guildhall",
+    "description": "<p>This module provides the Adventurers Guildhall scenes pack by Czepeku Scenes. All scenes are pre-configured with lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.0",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "10.261"},
+    "author": "Czepeku Scenes",
+    "packs": [
+        {
+            "name": "scenes",
+            "label": "Czepeku Scenes - Adventurers Guildhall",
+            "path": "/Packs/scenes.db",
+            "type": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": ""
+  }
+     ],
+    "url": "https://www.patreon.com/czepekuscenes/",
+    "manifest": "https://www.dropbox.com/scl/fi/npb4q7i9t1nltx1w766wu/module.json?rlkey=hrzgjzxc3zztgiiwypdt59g71&dl=1",
+    "download": "https://www.dropbox.com/scl/fi/znphwm6i1webb8co6r092/CzepekuScenes-AdventurersGuildhall.zip?rlkey=vwxqqzn5k2qmir4arlxy6006r&dl=1"
+}
