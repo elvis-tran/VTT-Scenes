@@ -1,0 +1,27 @@
+{
+    "id": "czepeku-scenes-051-village-hunting-guild",
+    "title": "Czepeku Scenes - Village Hunting Guild",
+    "description": "<p>This module provides the Village Hunting Guild scenes pack by Czepeku Scenes. All scenes are pre-configured with lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.0",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "11"},
+    "author": "Czepeku Scenes",
+    "packs": [
+        {
+            "name": "scenes",
+            "label": "Czepeku Scenes - Village Hunting Guild",
+            "path": "/Packs/scenes.db",
+            "type": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": ""
+  }
+     ],
+    "url": "https://www.patreon.com/czepekuscenes/",
+    "manifest": "https://www.dropbox.com/scl/fi/w1oqlfma7bqmunn85w28c/module.json?rlkey=p1xn87tdx9p50rplvcudp93jf&dl=1",
+    "download": "https://www.dropbox.com/scl/fi/czpytjw5yv389n280ch9z/CzepekuScenes-VillageHuntingGuild.zip?rlkey=nfou3k3cuq9k6gg0x38vpfxaf&dl=1"
+}
