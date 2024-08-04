@@ -1,0 +1,27 @@
+{
+    "name": "czepeku-25-animated-steamy-japanese-bathhouse",
+    "title": "Cze and Peku Animated - Steamy Japanese Bathhouse",
+    "description": "<p>This module provides the Animated Steamy Japanese Bathhouse map pack by Cze and Peku. All maps are pre-configured with walls and lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.2",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+    "author": "Cze and Peku",
+    "packs": [
+        {
+            "name": "maps",
+            "label": "Cze and Peku Animated - Steamy Japanese Bathhouse",
+            "path": "/packs/25-steamy-japanese-bathhouse.db",
+            "type": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": "https://www.dropbox.com/s/7dcgvquj6wwqvb3/23.jpg?dl=1"
+  }
+     ],
+    "url": "https://www.patreon.com/czepeku/",
+    "manifest": "https://www.dropbox.com/s/xveuobfuhqz9jjr/module.json?dl=1",
+    "download": "https://www.dropbox.com/s/cesrgelm5un20p2/CzepekuAnimated-SteamyJapaneseBathhouse.zip?dl=1"
+}
