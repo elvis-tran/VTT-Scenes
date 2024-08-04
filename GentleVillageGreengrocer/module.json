@@ -1,0 +1,27 @@
+{
+    "name": "czepeku-scenes-020-Gentle-Village-Greengrocer",
+    "title": "Czepeku Scenes - Gentle Village Greengrocer",
+    "description": "<p>This module provides the Gentle Village Greengrocer scenes pack by Czepeku Scenes. All scenes are pre-configured with lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.0",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "10.261"},
+    "author": "Czepeku Scenes",
+    "packs": [
+        {
+            "name": "scenes",
+            "label": "Czepeku Scenes - Gentle Village Greengrocer",
+            "path": "/Packs/scenes.db",
+            "type": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": ""
+  }
+     ],
+    "url": "https://www.patreon.com/czepekuscenes/",
+    "manifest": "https://www.dropbox.com/scl/fi/1edty7sf2yrhz51vdpqb6/module.json?rlkey=kcs1tpm02oyj124mk9gzitb97&dl=1",
+    "download": "https://www.dropbox.com/scl/fi/wgx2mukdt9gzgna72idpg/CzepekuScenes-GentleVillageGreengrocer.zip?rlkey=y2p9ksxyxqrjnt1tmj7qb9ydf&dl=1"
+}

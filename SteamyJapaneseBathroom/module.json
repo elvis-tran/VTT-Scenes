@@ -1,0 +1,27 @@
+{
+    "name": "czepeku-scenes-025-steamy-japanese-bathroom",
+    "title": "Czepeku Scenes - Steamy Japanese Bathroom",
+    "description": "<p>This module provides the Steamy Japanese Bathroom scenes pack by Czepeku Scenes. All scenes are pre-configured with lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.0",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "11"},
+    "author": "Czepeku Scenes",
+    "packs": [
+        {
+            "name": "scenes",
+            "label": "Czepeku Scenes - Steamy Japanese Bathroom",
+            "path": "/Packs/scenes.db",
+            "type": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": ""
+  }
+     ],
+    "url": "https://www.patreon.com/czepekuscenes/",
+    "manifest": "https://www.dropbox.com/scl/fi/wkayoo17cvhk172i45q6l/module.json?rlkey=hdfdfbgpp90rlv2iotar00e1p&dl=1",
+    "download": "https://www.dropbox.com/scl/fi/tul7lnu4m78jkzs3st2rh/CzepekuScenes-SteamyJapaneseBathroom.zip?rlkey=am6mndfew9xbd5imizf37clob&dl=1"
+}

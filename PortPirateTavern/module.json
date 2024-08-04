@@ -1,0 +1,27 @@
+{
+    "name": "czepeku-scenes-004-PortPirateTavern",
+    "title": "Czepeku Scenes - Port Pirate Tavern",
+    "description": "<p>This module provides the Port Pirate Tavern scenes pack by Czepeku Scenes. All scenes are pre-configured with lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.1",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "10.261"},
+    "author": "Czepeku Scenes",
+    "packs": [
+        {
+            "name": "scenes",
+            "label": "Czepeku Scenes - Port Pirate Tavern",
+            "path": "/Packs/scenes.db",
+            "type": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": ""
+  }
+     ],
+    "url": "https://www.patreon.com/czepekuscenes/",
+    "manifest": "https://www.dropbox.com/s/l5e5o8zds149y54/module.json?dl=1",
+    "download": "https://www.dropbox.com/s/c7m6m0iizy4npub/CzepekuScenes-PortPirateTavern.zip?dl=1"
+}
