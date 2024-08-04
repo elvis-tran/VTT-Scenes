@@ -1,0 +1,26 @@
+{
+    "name": "czepeku-animated-100-void-dragon-lair",
+    "title": "Cze and Peku Animated - Void Dragon Lair",
+    "description": "<p>This module provides the Animated Void Dragon Lair map pack by Cze and Peku. All maps are pre-configured with walls and lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.5.0",
+    "compatibleCoreVersion": "0.8.0",
+    "author": "Cze and Peku",
+    "packs": [
+        {
+            "name": "maps",
+            "label": "Cze and Peku Animated - Void Dragon Lair",
+            "path": "/Packs/maps.db",
+            "type": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": ""
+  }
+     ],
+    "url": "https://www.patreon.com/czepeku/",
+    "manifest": "https://www.dropbox.com/s/1ncc4xgut8fvlhp/module.json?dl=1",
+    "download": "https://www.dropbox.com/s/6dn1kskyutnfnvr/CzepekuAnimated-VoidDragonLair.zip?dl=1"
+}

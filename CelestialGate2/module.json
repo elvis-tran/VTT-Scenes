@@ -1,0 +1,27 @@
+{
+    "name": "czepeku-animated-95-celestial-gate",
+    "title": "Cze and Peku Animated - Celestial Gate",
+    "description": "<p>This module provides the Animated Celestial Gate map pack by Cze and Peku. All maps are pre-configured with walls and lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.2",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+    "author": "Cze and Peku",
+    "packs": [
+        {
+            "name": "maps",
+            "label": "Cze and Peku Animated - Celestial Gate",
+            "path": "/Packs/maps.db",
+            "type": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": ""
+  }
+     ],
+    "url": "https://www.patreon.com/czepeku/",
+    "manifest": "https://www.dropbox.com/s/pijb70uepnq4n20/module.json?dl=1",
+    "download": "https://www.dropbox.com/s/1jykmge15ctp2ka/CzepekuAnimated-CelestialGate.zip?dl=1"
+}
