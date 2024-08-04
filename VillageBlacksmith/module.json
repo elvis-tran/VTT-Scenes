@@ -1,0 +1,27 @@
+{
+    "id": "czepeku-scenes-043-village-blacksmith",
+    "title": "Czepeku Scenes - Village Blacksmith",
+    "description": "<p>This module provides the Village Blacksmith scenes pack by Czepeku Scenes. All scenes are pre-configured with lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.0",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "11"},
+    "author": "Czepeku Scenes",
+    "packs": [
+        {
+            "name": "scenes",
+            "label": "Czepeku Scenes - Village Blacksmith",
+            "path": "/Packs/scenes.db",
+            "type": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": ""
+  }
+     ],
+    "url": "https://www.patreon.com/czepekuscenes/",
+    "manifest": "https://www.dropbox.com/scl/fi/1hq0ihabxq19zxxmetff1/module.json?rlkey=bx9vby4oocg363hgf1kp6ktqy&dl=1",
+    "download": "https://www.dropbox.com/scl/fi/9d04zn1z3ljjqonydwe3g/CzepekuScenes-VillageBlacksmith.zip?rlkey=t4qk7aiu88lmuz0yngy1k91q8&dl=1"
+}

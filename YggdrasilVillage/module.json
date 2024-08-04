@@ -1,0 +1,27 @@
+{
+    "name": "czepeku-scenes-019-Yggdrasil-Village",
+    "title": "Czepeku Scenes - Yggdrasil Village",
+    "description": "<p>This module provides the Yggdrasil Village scenes pack by Czepeku Scenes. All scenes are pre-configured with lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.0",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "10.261"},
+    "author": "Czepeku Scenes",
+    "packs": [
+        {
+            "name": "scenes",
+            "label": "Czepeku Scenes - Yggdrasil Village",
+            "path": "/Packs/scenes.db",
+            "type": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": ""
+  }
+     ],
+    "url": "https://www.patreon.com/czepekuscenes/",
+    "manifest": "https://www.dropbox.com/scl/fi/nshtssficytxswrhzgs1z/module.json?rlkey=wrluflw21giptvufavd4ksv2q&dl=1",
+    "download": "https://www.dropbox.com/scl/fi/i4556b8zru4ykmbh7gwdv/CzepekuScenes-YggdrasilVillage.zip?rlkey=6mhaw62mjzv2q2cyvvro51szw&dl=1"
+}

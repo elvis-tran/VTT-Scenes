@@ -1,0 +1,27 @@
+{
+    "name": "czepeku-scenes-007-ColosseumofChallenges",
+    "title": "Czepeku Scenes - Colosseum of Challenges",
+    "description": "<p>This module provides the Colosseum of Challenges scenes pack by Czepeku Scenes. All scenes are pre-configured with lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.1",
+	"compatibility": {
+    "minimum": "10",
+    "verified": "10.261"},
+    "author": "Czepeku Scenes",
+    "packs": [
+        {
+            "name": "scenes",
+            "label": "Czepeku Scenes - Colosseum of Challenges",
+            "path": "/Packs/scenes.db",
+            "type": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": ""
+  }
+     ],
+    "url": "https://www.patreon.com/czepekuscenes/",
+    "manifest": "https://www.dropbox.com/s/w365wcvn8pgf68s/module.json?dl=1",
+    "download": "https://www.dropbox.com/s/hz8vwvpogkqqg9o/CzepekuScenes-ColosseumofChallenges.zip?dl=1"
+}
