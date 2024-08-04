@@ -1,0 +1,27 @@
+{
+    "name": "czepeku-12-Adventurers-Guildhall",
+    "title": "Cze and Peku - Adventurer's Guildhall",
+    "description": "<p>This module provides the Adventurer's Guildhall map pack by Cze and Peku. All maps are pre-configured with walls and lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.2",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+    "author": "Cze and Peku",
+    "packs": [
+        {
+            "name": "maps",
+            "label": "Cze and Peku - 12 Adventurer's Guildhall",
+            "path": "/packs/maps.db",
+            "type": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": "https://www.dropbox.com/s/uydca451i6paqxj/10.jpg?dl=1"
+  }
+     ],
+    "url": "https://www.patreon.com/czepeku/",
+    "manifest": "https://www.dropbox.com/s/6bncj5ugaa94gfg/module.json?dl=1",
+    "download": "https://www.dropbox.com/s/bilayc40ipfdovh/Adventurers%20Guildhall.zip?dl=1"
+}
