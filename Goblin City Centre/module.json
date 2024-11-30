@@ -1,0 +1,27 @@
+{
+    "name": "czepeku-190-animated-goblin-city-centre",
+    "title": "Cze and Peku Animated - Goblin City Centre",
+    "description": "<p>This module provides the Animated Goblin City Centre map pack by Cze and Peku. All maps are pre-configured with walls and lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.0",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+    "author": "Cze and Peku",
+    "packs": [
+        {
+            "name": "maps",
+            "label": "Cze and Peku Animated - Goblin City Centre",
+            "path": "/Packs/maps.db",
+            "type": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": ""
+  }
+     ],
+    "url": "https://www.patreon.com/czepeku/",
+    "manifest": "https://www.dropbox.com/scl/fi/axy20bx9k6d3s8wt14ahg/module.json?rlkey=t2f56i7zlt9dxr7eqrl03tue5&dl=1",
+    "download": "https://www.dropbox.com/scl/fi/4ecw4fvt36z9oqvndwmkq/GoblinCityAnimated-Czepeku.zip?rlkey=a7i7iapc0x5jx3ci4o0ji23y7&dl=1"
+}
