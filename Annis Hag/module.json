@@ -1,0 +1,27 @@
+{
+    "name": "czepeku-145-animated-annis-hag-lair",
+    "title": "Cze and Peku Animated - Annis Hag Lair",
+    "description": "<p>This module provides the Animated Annis Hag Lair map pack by Cze and Peku. All maps are pre-configured with walls and lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.1",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+    "author": "Cze and Peku",
+    "packs": [
+        {
+            "name": "maps",
+            "label": "Cze and Peku Animated - Annis Hag Lair",
+            "path": "/Packs/maps.db",
+            "type": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": ""
+  }
+     ],
+    "url": "https://www.patreon.com/czepeku/",
+    "manifest": "https://www.dropbox.com/s/57hy9b1jbnf48bi/module.json?dl=1",
+    "download": "https://www.dropbox.com/s/lhopwk3xmw5ca4c/CzepekuAnimated-AnnisHagLair.zip?dl=1"
+}
