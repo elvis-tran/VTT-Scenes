@@ -1,0 +1,27 @@
+{
+    "name": "czepeku-98-airships-part-2",
+    "title": "Cze and Peku - Airships Part 2",
+    "description": "<p>This module provides the Airships Part 2 map pack by Cze and Peku. All maps are pre-configured with walls and lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.2",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+    "author": "Cze and Peku",
+    "packs": [
+        {
+            "name": "maps",
+            "label": "Cze and Peku - Airships Part 2",
+            "path": "/Packs/maps.db",
+            "type": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": ""
+  }
+     ],
+    "url": "https://www.patreon.com/czepeku/",
+    "manifest": "https://dl.dropbox.com/s/mifffzm0za8vuel/module.json",
+    "download": "https://dl.dropbox.com/s/sna6jycw34pb9z5/CzepekuAirships2.zip"
+}

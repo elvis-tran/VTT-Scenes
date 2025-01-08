@@ -1,0 +1,27 @@
+{
+    "name": "czepeku-43-airships-part-1",
+    "title": "Cze and Peku Airships Part 1!",
+    "description": "<p>This module provides the Airships asset pack by Cze and Peku. All maps are pre-configured with walls and lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.2",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+    "author": "Cze and Peku",
+    "packs": [
+        {
+            "name": "maps",
+            "label": "Cze and Peku - Airships!",
+            "path": "/packs/maps.db",
+            "type": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": "https://www.dropbox.com/s/r3kkvmkf6envaya/39.jpg?dl=1"
+  }
+     ],
+    "url": "https://www.patreon.com/czepeku/",
+    "manifest": "https://www.dropbox.com/s/g4diccqscmch8cc/module.json?dl=1",
+    "download": "https://www.dropbox.com/s/6kgoq0lkigrsakg/Airships.zip?dl=1"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "czepeku-110-airship-port",
+    "title": "Cze and Peku - Airship Port",
+    "description": "<p>This module provides the Airship Port map pack by Cze and Peku. All maps are pre-configured with walls and lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.2",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+    "author": "Cze and Peku",
+    "packs": [
+        {
+            "name": "maps",
+            "label": "Cze and Peku - Airship Port",
+            "path": "/Packs/maps.db",
+            "type": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": ""
+  }
+     ],
+    "url": "https://www.patreon.com/czepeku/",
+    "manifest": "https://www.dropbox.com/s/tkjv6a3ie1wfv5c/module.json?dl=1",
+    "download": "https://www.dropbox.com/s/2xa9844dsjxdgpu/Czepeku-AirshipPort.zip?dl=1"
+}
